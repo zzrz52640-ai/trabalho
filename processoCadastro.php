@@ -1,5 +1,7 @@
 <?php
 
+//Esse erro me deu canseira e insônia, pois passei 2 dias tentando arrumar ele '-'
+
 $nome = $_POST["nome"];
 $idade = $_POST["idade"];
 $profissao = $_POST["profissao"];
